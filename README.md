@@ -1,1 +1,1 @@
-This is collectionmy front end projects learning
+This is collection of my front end projects learning
